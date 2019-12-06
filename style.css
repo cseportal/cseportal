@@ -1,9 +1,9 @@
 *{margin:0;padding:0px}
- body{front-family:arial;front-size:16px;line-height:22px;color:#666;background:url(images/bg1.jpg) repeat #ddd}
+ body{front-family:arial;front-size:16px;line-height:22px;color:#666;background:url(bg1.jpg) repeat #ddd}
 .fix{overflow:hidden}
 .main{width:960px;margin:25px auto;display:block;margin-top:10px;background:#fff}
 .header{margin-left: 2px;}
-.slider{height:369px;width:960px;margin-bottom:14px;margin-top:-5px;background:url(images/banner.jpg) no-repeat}
+.slider{height:369px;width:960px;margin-bottom:14px;margin-top:-5px;background:url(banner.jpg) no-repeat}
 .slider_text{margin-left: 470px;margin-top:90px;color:6A87A5;}
 .slider_text h3{}
 .maincontent{padding-right:60px;color:1C1E1C}
